@@ -8,7 +8,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 [params]
   avatar = "profile.png"
-  author = "Author Name"
+  author = "Andy"
   description = "Describe your website"
 custom_css = []
   custom_js  = []
